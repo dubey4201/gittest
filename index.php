@@ -1,3 +1,3 @@
 <?php
-echo "fuckk off basted.";
+echo "git hub test";
 ?>
